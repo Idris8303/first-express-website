@@ -1,0 +1,19 @@
+{
+  "name": "7-25-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Idris8303/first-express-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idris8303/first-express-website/issues"
+  },
+  "homepage": "https://github.com/Idris8303/first-express-website#readme"
+}
